@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <style>
+        body { font-family: Arial, sans-serif; color: blue; background-color: #f4f4f4; margin: 0; padding: 20px; }
+        h1 { text-align: center; color: #4CAF50; }
+        ul { line-height: 1.6; }
+        footer { text-align: center; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>About me</h1>
+    <ul>
+        <li>Likes reading novels.</li>
+        <li>Likes playing games.</li>
+        <li>Likes talking to freinds</li>
+        <li>Likes trying new food </li>
+    </ul>
+    <nav>
+        <a href="myUniversity.html">My University</a> | 
+        <a href="resume.html">My Resume</a>
+    </nav>
+    <footer>
+        <p>Thank you for visiting!</p>
+    </footer>
+</body>
+</html>
